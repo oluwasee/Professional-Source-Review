@@ -1,0 +1,251 @@
+{
+  "sources": [
+    "https://zagazola.org/"
+  ],
+  "category": "crime and security",
+  "scraped_at": "2026-09-23T09:04:32.146026+00:00",
+  "count": 19,
+  "headlines": [
+    {
+      "source": "Zagazola",
+      "title": "Three locals killed in suspected Fulani bandits ambush…",
+      "link": "https://zagazola.org/index.php/breaking-news/three-locals-killed-in-suspected-fulani-bandits-ambush-in-mangu",
+      "location": null,
+      "date": null,
+      "severity_score": 18,
+      "severity": "HIGH",
+      "matched_terms": [
+        "kill",
+        "bandit"
+      ],
+      "rank": 1
+    },
+    {
+      "source": "Zagazola",
+      "title": "Troops Foil Terrorist Attack on Truck Along Gajiram-Mairari…",
+      "link": "https://zagazola.org/index.php/breaking-news/troops-foil-terrorist-attack-on-truck-along-gajiram-mairari-road",
+      "location": null,
+      "date": null,
+      "severity_score": 17,
+      "severity": "HIGH",
+      "matched_terms": [
+        "terror",
+        "attack"
+      ],
+      "rank": 2
+    },
+    {
+      "source": "Zagazola",
+      "title": "Troops neutralise three terrorists after ambush on…",
+      "link": "https://zagazola.org/index.php/breaking-news/troops-neutralise-three-terrorists-after-ambush-on-miyanti-banki-route",
+      "location": null,
+      "date": null,
+      "severity_score": 10,
+      "severity": "MEDIUM",
+      "matched_terms": [
+        "terror"
+      ],
+      "rank": 3
+    },
+    {
+      "source": "Zagazola",
+      "title": "Operation Hadin Kai neutralises 152 terrorists, arrests…",
+      "link": "https://zagazola.org/index.php/breaking-news/operation-hadin-kai-neutralises-152-terrorists-arrests-142-in-august",
+      "location": null,
+      "date": null,
+      "severity_score": 10,
+      "severity": "MEDIUM",
+      "matched_terms": [
+        "terror"
+      ],
+      "rank": 4
+    },
+    {
+      "source": "Zagazola",
+      "title": "Operation HADIN KAI Air Platforms Eliminate 38 Terrorists…",
+      "link": "https://zagazola.org/index.php/breaking-news/operation-hadin-kai-air-platforms-eliminate-38-terrorists-in-devastating-multiple-precision-strikes-across-borno",
+      "location": "Borno",
+      "date": null,
+      "severity_score": 10,
+      "severity": "MEDIUM",
+      "matched_terms": [
+        "terror"
+      ],
+      "rank": 5
+    },
+    {
+      "source": "Zagazola",
+      "title": "Police foil kidnap attempt, rescue six FUDMA students…",
+      "link": "https://zagazola.org/index.php/breaking-news/police-foil-kidnap-attempt-rescue-six-fudma-students-and-driver-in-katsina",
+      "location": "Katsina",
+      "date": null,
+      "severity_score": 10,
+      "severity": "MEDIUM",
+      "matched_terms": [
+        "kidnap"
+      ],
+      "rank": 6
+    },
+    {
+      "source": "Zagazola",
+      "title": "Troops foil kidnap attempt, rescue three victims in…",
+      "link": "https://zagazola.org/index.php/breaking-news/troops-foil-kidnap-attempt-rescue-three-victims-in-plateau",
+      "location": "Plateau",
+      "date": null,
+      "severity_score": 10,
+      "severity": "MEDIUM",
+      "matched_terms": [
+        "kidnap"
+      ],
+      "rank": 7
+    },
+    {
+      "source": "Zagazola",
+      "title": "Diary of an 8 year-old boy kidnapped by Boko Haram…",
+      "link": "https://zagazola.org/index.php/security-analysis/diary-of-an-8-year-old-boy-kidnapped-by-boko-haram-from-cameroon",
+      "location": null,
+      "date": null,
+      "severity_score": 10,
+      "severity": "MEDIUM",
+      "matched_terms": [
+        "kidnap"
+      ],
+      "rank": 8
+    },
+    {
+      "source": "Zagazola",
+      "title": "Seven Killed, Five Injured in Fatal Road Crash in Niger",
+      "link": "https://zagazola.org/index.php/breaking-news/seven-killed-five-injured-in-fatal-road-crash-in-niger",
+      "location": "Niger",
+      "date": null,
+      "severity_score": 9,
+      "severity": "MEDIUM",
+      "matched_terms": [
+        "kill"
+      ],
+      "rank": 9
+    },
+    {
+      "source": "Zagazola",
+      "title": "Deputy Commander of Operation Rainbow killed in ambush…",
+      "link": "https://zagazola.org/index.php/breaking-news/deputy-commander-of-operation-rainbow-killed-in-ambush-by-fulani-bandits-along-bokkos-barkin-ladi-road",
+      "location": null,
+      "date": null,
+      "severity_score": 9,
+      "severity": "MEDIUM",
+      "matched_terms": [
+        "kill"
+      ],
+      "rank": 10
+    },
+    {
+      "source": "Zagazola",
+      "title": "Four illegal miners killed as mining pit collapses…",
+      "link": "https://zagazola.org/index.php/breaking-news/four-illegal-miners-killed-as-mining-pit-collapses-in-plateau",
+      "location": "Plateau",
+      "date": null,
+      "severity_score": 9,
+      "severity": "MEDIUM",
+      "matched_terms": [
+        "kill"
+      ],
+      "rank": 11
+    },
+    {
+      "source": "Zagazola",
+      "title": "18 ISWAP killed as Nigeria, Niger/Cameroon Joint Force…",
+      "link": "https://zagazola.org/index.php/security-analysis/18-iswap-killed-as-nigeria-niger-cameroon-joint-force-intensify-clearance-operation-in-lakechad",
+      "location": "Niger",
+      "date": null,
+      "severity_score": 9,
+      "severity": "MEDIUM",
+      "matched_terms": [
+        "kill"
+      ],
+      "rank": 12
+    },
+    {
+      "source": "Zagazola",
+      "title": "46-year-old man shot dead in isolated attack by suspected…",
+      "link": "https://zagazola.org/index.php/breaking-news/46-year-old-man-shot-dead-in-isolated-attack-by-suspected-fulani-bandits-in-barkin-ladi",
+      "location": null,
+      "date": null,
+      "severity_score": 7,
+      "severity": "LOW",
+      "matched_terms": [
+        "attack"
+      ],
+      "rank": 13
+    },
+    {
+      "source": "Zagazola",
+      "title": "Suspected Fulani militia attack on commercial vehicle…",
+      "link": "https://zagazola.org/index.php/breaking-news/suspected-fulani-militia-attack-on-commercial-vehicle-leaves-two-injured-one-dead-in-plateau",
+      "location": "Plateau",
+      "date": null,
+      "severity_score": 7,
+      "severity": "LOW",
+      "matched_terms": [
+        "attack"
+      ],
+      "rank": 14
+    },
+    {
+      "source": "Zagazola",
+      "title": "Chronological Narrative of Attacks and Reprisals in…",
+      "link": "https://zagazola.org/index.php/security-analysis/12",
+      "location": null,
+      "date": null,
+      "severity_score": 7,
+      "severity": "LOW",
+      "matched_terms": [
+        "attack"
+      ],
+      "rank": 15
+    },
+    {
+      "source": "Zagazola",
+      "title": "Troops, NDLEA arrest five suspects with illicit substances…",
+      "link": "https://zagazola.org/index.php/breaking-news/troops-ndlea-arrest-five-suspects-with-illicit-substances-in-adamawa",
+      "location": "Adamawa",
+      "date": null,
+      "severity_score": 0,
+      "severity": "LOW",
+      "matched_terms": [],
+      "rank": 16
+    },
+    {
+      "source": "Zagazola",
+      "title": "Troops arrest three suspected illegal miners, recover…",
+      "link": "https://zagazola.org/index.php/breaking-news/troops-arrest-three-suspected-illegal-miners-recover-equipment-in-nasarawa",
+      "location": "Nasarawa",
+      "date": null,
+      "severity_score": 0,
+      "severity": "LOW",
+      "matched_terms": [],
+      "rank": 17
+    },
+    {
+      "source": "Zagazola",
+      "title": "Troops arrest two suspected illicit drug peddlers in…",
+      "link": "https://zagazola.org/index.php/breaking-news/troops-arrest-two-suspected-illicit-drug-peddlers-in-plateau",
+      "location": "Plateau",
+      "date": null,
+      "severity_score": 0,
+      "severity": "LOW",
+      "matched_terms": [],
+      "rank": 18
+    },
+    {
+      "source": "Zagazola",
+      "title": "When Protests Become Weapons: Unmasking Violence, Cover-Ups,…",
+      "link": "https://zagazola.org/index.php/security-analysis/when-protests-become-weapons-unmasking-violence-cover-ups-and-narrative-warfare-in-plateau",
+      "location": "Plateau",
+      "date": null,
+      "severity_score": 0,
+      "severity": "LOW",
+      "matched_terms": [],
+      "rank": 19
+    }
+  ]
+}

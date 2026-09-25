@@ -1,0 +1,453 @@
+{
+  "source": "https://dailypost.ng/metro/",
+  "generated_at": "2026-09-22T22:15:54.484459+00:00",
+  "disclaimer": "Automated news triage only. Verify every report with trusted sources before journalistic or operational use.",
+  "stories": [
+    {
+      "title": "Suspected gunmen kill five in Plateau market attack",
+      "url": "https://dailypost.ng/2026/09/20/suspected-gunmen-kill-five-in-plateau-market-attack/",
+      "published_date": "2026-09-20T07:59:56+00:00",
+      "summary": "Gunmen have attacked a vegetable market in Mangu Local Government Area of Plateau State, killing five people and injuring several others.The attack",
+      "reported_locations": [
+        "Jos",
+        "Plateau"
+      ],
+      "severity_score": 75,
+      "severity": "CRITICAL",
+      "matched_crime_terms": [
+        "killed",
+        "gunmen",
+        "attack"
+      ],
+      "police_priority": "URGENT VERIFICATION: prioritize Jos, Plateau for immediate incident verification and appropriate emergency response.",
+      "collected_at": "2026-09-22T22:15:12.629030+00:00"
+    },
+    {
+      "title": "Police apprehend man for hacking mother to death in Abia",
+      "url": "https://dailypost.ng/2026/09/22/police-apprehend-man-for-hacking-mother-to-death-in-abia/",
+      "published_date": "2026-09-22T09:17:50+00:00",
+      "summary": "Abia State Police Command has confirmed the arrest of a murder suspect, Livingston Nwakanma, who allegedly killed his mother, Mrs Nwaigbe Nwakanma, with a",
+      "reported_locations": [],
+      "severity_score": 55,
+      "severity": "CRITICAL",
+      "matched_crime_terms": [
+        "murder",
+        "killed"
+      ],
+      "police_priority": "URGENT VERIFICATION: prioritize the reported area for immediate incident verification and appropriate emergency response.",
+      "collected_at": "2026-09-22T22:14:48.463193+00:00"
+    },
+    {
+      "title": "Four dead as gunmen ambush miners in Plateau",
+      "url": "https://dailypost.ng/2026/09/20/four-dead-as-gunmen-ambush-miners-in-plateau/",
+      "published_date": "2026-09-20T13:45:01+00:00",
+      "summary": "Four suspected illegal miners were found dead after gunmen opened fire on their vehicle while returning from a mining site in Ganna Ropp, Barkin Ladi",
+      "reported_locations": [
+        "Plateau"
+      ],
+      "severity_score": 44,
+      "severity": "CRITICAL",
+      "matched_crime_terms": [
+        "shooting",
+        "gunmen",
+        "attack"
+      ],
+      "police_priority": "URGENT VERIFICATION: prioritize Plateau for immediate incident verification and appropriate emergency response.",
+      "collected_at": "2026-09-22T22:14:32.488868+00:00"
+    },
+    {
+      "title": "Troops arrest another suspected bandit collaborator in North-West",
+      "url": "https://dailypost.ng/2026/09/19/troops-arrest-another-suspected-bandit-collaborator-in-north-west/",
+      "published_date": "2026-09-19T19:29:45+00:00",
+      "summary": "Troops carrying out security operations in Nigeria’s North-West have arrested another person suspected of working with armed bandits in the region. A",
+      "reported_locations": [],
+      "severity_score": 36,
+      "severity": "CRITICAL",
+      "matched_crime_terms": [
+        "bandit",
+        "banditry"
+      ],
+      "police_priority": "URGENT VERIFICATION: prioritize the reported area for immediate incident verification and appropriate emergency response.",
+      "collected_at": "2026-09-22T22:15:33.574486+00:00"
+    },
+    {
+      "title": "Troops capture terrorist commanders linked to killing of Maj Gen Rabe in Katsina",
+      "url": "https://dailypost.ng/2026/09/20/troops-capture-terrorist-commanders-linked-to-killing-of-maj-gen-rabe-in-katsina/",
+      "published_date": "2026-09-20T16:05:44+00:00",
+      "summary": "Troops of the Nigerian military operating under Operation FANSAN YAMMA, in collaboration with local vigilantes, have captured key commanders of a",
+      "reported_locations": [
+        "Katsina",
+        "Katsina"
+      ],
+      "severity_score": 35,
+      "severity": "CRITICAL",
+      "matched_crime_terms": [
+        "terrorist"
+      ],
+      "police_priority": "URGENT VERIFICATION: prioritize Katsina, Katsina for immediate incident verification and appropriate emergency response.",
+      "collected_at": "2026-09-22T22:14:58.056567+00:00"
+    },
+    {
+      "title": "Bandits reportedly kill Lafagu village head in Kebbi",
+      "url": "https://dailypost.ng/2026/09/20/bandits-reportedly-kill-lafagu-village-head-in-kebbi/",
+      "published_date": "2026-09-20T12:54:29+00:00",
+      "summary": "Suspected bandits have reportedly killed the village head of Lafagu, Alhaji Sa’idu Mujeli, in Bagudo Local Government Area of Kebbi State. The incident",
+      "reported_locations": [
+        "Kebbi"
+      ],
+      "severity_score": 34,
+      "severity": "CRITICAL",
+      "matched_crime_terms": [
+        "killed",
+        "attack"
+      ],
+      "police_priority": "URGENT VERIFICATION: prioritize Kebbi for immediate incident verification and appropriate emergency response.",
+      "collected_at": "2026-09-22T22:15:17.134658+00:00"
+    },
+    {
+      "title": "Bandits kill local security commander in Kwara community",
+      "url": "https://dailypost.ng/2026/09/19/bandits-kill-local-security-commander-in-kwara-community/",
+      "published_date": "2026-09-19T05:20:46+00:00",
+      "summary": "Suspected armed bandits have reportedly killed a community security commander in Idofin-Ayekale, Oke-Ero Local Government Area of Kwara State. Reports",
+      "reported_locations": [
+        "Kwara"
+      ],
+      "severity_score": 32,
+      "severity": "CRITICAL",
+      "matched_crime_terms": [
+        "killed",
+        "attack"
+      ],
+      "police_priority": "URGENT VERIFICATION: prioritize Kwara for immediate incident verification and appropriate emergency response.",
+      "collected_at": "2026-09-22T22:14:30.228602+00:00"
+    },
+    {
+      "title": "Terrorists flee with gunshot wounds as troops kill one in Kaduna",
+      "url": "https://dailypost.ng/2026/09/19/terrorists-flee-with-gunshot-wounds-as-troops-kill-one-in-kaduna/",
+      "published_date": "2026-09-19T19:15:05+00:00",
+      "summary": "Nigerian troops of Sector 7, Sub-Sector 71 Sanga, have neutralised a suspected terrorist during an offensive operation in Ungwan Nungu village, Sanga",
+      "reported_locations": [
+        "Kaduna",
+        "Kaduna"
+      ],
+      "severity_score": 29,
+      "severity": "CRITICAL",
+      "matched_crime_terms": [
+        "terrorist",
+        "killed"
+      ],
+      "police_priority": "URGENT VERIFICATION: prioritize Kaduna, Kaduna for immediate incident verification and appropriate emergency response.",
+      "collected_at": "2026-09-22T22:14:11.425719+00:00"
+    },
+    {
+      "title": "Armed robbers kill police officer in Jigawa ambush",
+      "url": "https://dailypost.ng/2026/09/18/armed-robbers-kill-police-officer-in-jigawa-ambush/",
+      "published_date": "2026-09-18T14:28:17+00:00",
+      "summary": "The Jigawa State Police Command has confirmed the killing of a police corporal in an ambush attack on police officers in Hadejia Local Government Area.",
+      "reported_locations": [
+        "Jigawa"
+      ],
+      "severity_score": 29,
+      "severity": "CRITICAL",
+      "matched_crime_terms": [
+        "armed robbery",
+        "attack",
+        "robbery"
+      ],
+      "police_priority": "URGENT VERIFICATION: prioritize Jigawa for immediate incident verification and appropriate emergency response.",
+      "collected_at": "2026-09-22T22:15:21.734574+00:00"
+    },
+    {
+      "title": "Notorious bandit, Samagi reportedly captured in Katsina [VIDEO]",
+      "url": "https://dailypost.ng/2026/09/19/notorious-bandit-samagi-reportedly-captured-in-katsina-video/",
+      "published_date": "2026-09-19T19:01:58+00:00",
+      "summary": "The Katsina State Community Watch Corps has reportedly captured Samagi, a top commander in the bandit network led by notorious kingpin Kachalla Maha in",
+      "reported_locations": [
+        "Katsina",
+        "Katsina"
+      ],
+      "severity_score": 27,
+      "severity": "CRITICAL",
+      "matched_crime_terms": [
+        "bandit"
+      ],
+      "police_priority": "URGENT VERIFICATION: prioritize Katsina, Katsina for immediate incident verification and appropriate emergency response.",
+      "collected_at": "2026-09-22T22:14:02.692063+00:00"
+    },
+    {
+      "title": "Son conspires to rob mother in Adamawa midnight attack",
+      "url": "https://dailypost.ng/2026/09/19/son-conspires-to-rob-mother-in-adamawa-midnight-attack/",
+      "published_date": "2026-09-19T05:25:30+00:00",
+      "summary": "A man in Adamawa State has been accused of conspiring with two other men to attack his mother at midnight and rob her of N200,000 and other valuables. The",
+      "reported_locations": [
+        "Yola",
+        "Adamawa"
+      ],
+      "severity_score": 27,
+      "severity": "CRITICAL",
+      "matched_crime_terms": [
+        "attack",
+        "robbery"
+      ],
+      "police_priority": "URGENT VERIFICATION: prioritize Yola, Adamawa for immediate incident verification and appropriate emergency response.",
+      "collected_at": "2026-09-22T22:15:39.018552+00:00"
+    },
+    {
+      "title": "Benue: Police rescue kidnapped travellers after gun battle with abductors",
+      "url": "https://dailypost.ng/2026/09/18/benue-police-rescue-kidnapped-travellers-after-gun-battle-with-abductors/",
+      "published_date": "2026-09-18T17:02:44+00:00",
+      "summary": "The Benue State Police Command has rescued eight passengers abducted by suspected kidnappers along the Ankpenchi-Ogobia axis of Ohimini Local Government",
+      "reported_locations": [
+        "Abuja",
+        "Makurdi",
+        "Benue",
+        "Ebonyi"
+      ],
+      "severity_score": 26,
+      "severity": "CRITICAL",
+      "matched_crime_terms": [
+        "hostage",
+        "attack"
+      ],
+      "police_priority": "URGENT VERIFICATION: prioritize Abuja, Makurdi, Benue, Ebonyi for immediate incident verification and appropriate emergency response.",
+      "collected_at": "2026-09-22T22:15:41.691473+00:00"
+    },
+    {
+      "title": "Ethnic clash kills 15 in Kebbi as residents flee homes",
+      "url": "https://dailypost.ng/2026/09/22/ethnic-clash-kills-15-in-kebbi-as-residents-flee-homes/",
+      "published_date": "2026-09-22T14:47:57+00:00",
+      "summary": "Residents of Lafagu community in Bagudo Local Government Area of Kebbi State have fled their homes following an ethnic clash that reportedly killed 15",
+      "reported_locations": [
+        "Kebbi"
+      ],
+      "severity_score": 25,
+      "severity": "CRITICAL",
+      "matched_crime_terms": [
+        "killed",
+        "attack"
+      ],
+      "police_priority": "URGENT VERIFICATION: prioritize Kebbi for immediate incident verification and appropriate emergency response.",
+      "collected_at": "2026-09-22T22:15:23.870406+00:00"
+    },
+    {
+      "title": "Armed robbers raid TSU students’ residences in Jalingo",
+      "url": "https://dailypost.ng/2026/09/21/armed-robbers-raid-tsu-students-residences-in-jalingo/",
+      "published_date": "2026-09-21T10:38:03+00:00",
+      "summary": "Suspected armed robbers have reportedly raided several residences occupied by students of Taraba State University (TSU) in the ATC area of Jalingo, the",
+      "reported_locations": [
+        "Taraba"
+      ],
+      "severity_score": 24,
+      "severity": "HIGH",
+      "matched_crime_terms": [
+        "attack"
+      ],
+      "police_priority": "HIGH PRIORITY: request prompt verification and increased public safety attention around Taraba.",
+      "collected_at": "2026-09-22T22:14:39.310572+00:00"
+    },
+    {
+      "title": "Bandits abduct Sarkin Fulani, son, relative in Niger",
+      "url": "https://dailypost.ng/2026/09/19/bandits-abduct-sarkin-fulani-son-relative-in-niger/",
+      "published_date": "2026-09-19T15:46:50+00:00",
+      "summary": "Bandits have abducted the Sarkin Fulani of Betuwa in Gulbin Boka, Mariga Local Government Area of Niger State, along with his son and another family",
+      "reported_locations": [
+        "Niger"
+      ],
+      "severity_score": 24,
+      "severity": "HIGH",
+      "matched_crime_terms": [
+        "abduct",
+        "attack"
+      ],
+      "police_priority": "HIGH PRIORITY: request prompt verification and increased public safety attention around Niger.",
+      "collected_at": "2026-09-22T22:15:31.523671+00:00"
+    },
+    {
+      "title": "Bandits abduct village head in Kano community",
+      "url": "https://dailypost.ng/2026/09/18/bandits-abduct-village-head-in-kano-community/",
+      "published_date": "2026-09-18T15:03:34+00:00",
+      "summary": "There was palpable tension in Aujarawar Alkali community in Gezawa Local Government Area of Kano State after armed bandits stormed the village and",
+      "reported_locations": [
+        "Kano",
+        "Kano"
+      ],
+      "severity_score": 22,
+      "severity": "HIGH",
+      "matched_crime_terms": [
+        "abduct",
+        "attack"
+      ],
+      "police_priority": "HIGH PRIORITY: request prompt verification and increased public safety attention around Kano, Kano.",
+      "collected_at": "2026-09-22T22:15:05.220952+00:00"
+    },
+    {
+      "title": "Niger boils as 700 remain in captivity one month after abduction",
+      "url": "https://dailypost.ng/2026/09/22/niger-boils-as-700-remain-in-captivity-one-month-after-abduction/",
+      "published_date": "2026-09-22T11:06:55+00:00",
+      "summary": "There was tension in Niger State on Monday as residents took to the streets to protest the abduction of hundreds of people who they said",
+      "reported_locations": [
+        "Niger"
+      ],
+      "severity_score": 21,
+      "severity": "HIGH",
+      "matched_crime_terms": [
+        "kidnap",
+        "gunmen"
+      ],
+      "police_priority": "HIGH PRIORITY: request prompt verification and increased public safety attention around Niger.",
+      "collected_at": "2026-09-22T22:14:51.328228+00:00"
+    },
+    {
+      "title": "Militias set houses ablaze as troops repel attack in Plateau",
+      "url": "https://dailypost.ng/2026/09/18/militias-set-houses-ablaze-as-troops-repel-attack-in-plateau/",
+      "published_date": "2026-09-18T12:57:40+00:00",
+      "summary": "Suspected militias on Thursday, set some houses ablaze while retreating from troops who repelled their attempted attack on Manja community in Mangu Local",
+      "reported_locations": [
+        "Plateau"
+      ],
+      "severity_score": 21,
+      "severity": "HIGH",
+      "matched_crime_terms": [
+        "attack"
+      ],
+      "police_priority": "HIGH PRIORITY: request prompt verification and increased public safety attention around Plateau.",
+      "collected_at": "2026-09-22T22:15:51.204952+00:00"
+    },
+    {
+      "title": "They sprayed us something in the cell — Survivor of Niger miners’ deaths recounts",
+      "url": "https://dailypost.ng/2026/09/18/they-sprayed-us-something-in-the-cell-survivor-of-niger-miners-deaths-recounts/",
+      "published_date": "2026-09-18T18:47:38+00:00",
+      "summary": "One of the survivors of the incident that killed 37 suspected illegal gold miners in the custody of the Nigeria Security and Civil Defence Corps, NSCDC,",
+      "reported_locations": [
+        "Niger"
+      ],
+      "severity_score": 18,
+      "severity": "HIGH",
+      "matched_crime_terms": [
+        "killed"
+      ],
+      "police_priority": "HIGH PRIORITY: request prompt verification and increased public safety attention around Niger.",
+      "collected_at": "2026-09-22T22:15:29.102607+00:00"
+    },
+    {
+      "title": "Lagos: Police arrest suspected cultist, recover pistol, axe, others in Ikorodu",
+      "url": "https://dailypost.ng/2026/09/22/lagos-police-arrest-suspected-cultist-recover-pistol-axe-others-in-ikorodu/",
+      "published_date": "2026-09-22T18:27:45+00:00",
+      "summary": "The Lagos State Police Command has arrested a 36-year-old suspected cultist, Muyideen Olatunbosun, and recovered a rubber-made pistol, an axe, criminal",
+      "reported_locations": [
+        "Lagos",
+        "Lagos"
+      ],
+      "severity_score": 17,
+      "severity": "HIGH",
+      "matched_crime_terms": [
+        "cultism"
+      ],
+      "police_priority": "HIGH PRIORITY: request prompt verification and increased public safety attention around Lagos, Lagos.",
+      "collected_at": "2026-09-22T22:14:36.902196+00:00"
+    },
+    {
+      "title": "Police arrest suspect linked to multiple abductions in Kaduna, Kano, Katsina",
+      "url": "https://dailypost.ng/2026/09/21/police-arrest-suspect-linked-to-multiple-abductions-in-kaduna-kano-katsina/",
+      "published_date": "2026-09-21T20:58:52+00:00",
+      "summary": "The Kano State Police Command has arrested a 35-year-old man suspected of belonging to a kidnapping and cattle-rustling syndicate operating across Kano,",
+      "reported_locations": [
+        "Kano",
+        "Kaduna",
+        "Katsina",
+        "Kaduna",
+        "Kano",
+        "Katsina"
+      ],
+      "severity_score": 15,
+      "severity": "MEDIUM",
+      "matched_crime_terms": [
+        "armed robbery",
+        "robbery"
+      ],
+      "police_priority": "MEDIUM PRIORITY: verify the report and monitor Kano, Kaduna, Katsina, Kaduna, Kano, Katsina for related incidents.",
+      "collected_at": "2026-09-22T22:15:08.803667+00:00"
+    },
+    {
+      "title": "Troops foil kidnapping attempt, rescue three victims in Katsina",
+      "url": "https://dailypost.ng/2026/09/19/troops-foil-kidnapping-attempt-rescue-three-victims-in-katsina/",
+      "published_date": "2026-09-19T14:09:05+00:00",
+      "summary": "Troops of Sector 2, Operation FANSAN YAMMA, have rescued three kidnapped victims after foiling a kidnapping attempt along the Dandume-Damari axis in",
+      "reported_locations": [
+        "Katsina",
+        "Katsina"
+      ],
+      "severity_score": 10,
+      "severity": "MEDIUM",
+      "matched_crime_terms": [
+        "terrorist"
+      ],
+      "police_priority": "MEDIUM PRIORITY: verify the report and monitor Katsina, Katsina for related incidents.",
+      "collected_at": "2026-09-22T22:15:49.020804+00:00"
+    },
+    {
+      "title": "Five suspected kidnappers neutralised during gun battle with troops in Kaduna",
+      "url": "https://dailypost.ng/2026/09/21/five-suspected-kidnappers-neutralised-during-gun-battle-with-troops-in-kaduna/",
+      "published_date": "2026-09-21T16:16:26+00:00",
+      "summary": "Five suspected kidnappers were neutralised during a gun battle between troops and members of a criminal syndicate in Sanga Local Government Area of Kaduna",
+      "reported_locations": [
+        "Kaduna",
+        "Kaduna"
+      ],
+      "severity_score": 9,
+      "severity": "MEDIUM",
+      "matched_crime_terms": [
+        "killed"
+      ],
+      "police_priority": "MEDIUM PRIORITY: verify the report and monitor Kaduna, Kaduna for related incidents.",
+      "collected_at": "2026-09-22T22:15:25.881108+00:00"
+    },
+    {
+      "title": "Two arrested in Adamawa over theft from Bamanga Tukur’s farm",
+      "url": "https://dailypost.ng/2026/09/18/two-arrested-in-adamawa-over-theft-from-bamanga-tukurs-farm/",
+      "published_date": "2026-09-18T14:44:32+00:00",
+      "summary": "Two men have been arrested in Adamawa State for allegedly stealing irrigation pipes from a farm owned by the late elder statesman, Bamanga Tukur. The",
+      "reported_locations": [
+        "Yola",
+        "Adamawa"
+      ],
+      "severity_score": 8,
+      "severity": "MEDIUM",
+      "matched_crime_terms": [
+        "theft"
+      ],
+      "police_priority": "MEDIUM PRIORITY: verify the report and monitor Yola, Adamawa for related incidents.",
+      "collected_at": "2026-09-22T22:14:45.961318+00:00"
+    },
+    {
+      "title": "Army dismisses Boko Haram, ISWAP attack alert as fake",
+      "url": "https://dailypost.ng/2026/09/19/army-dismisses-boko-haram-iswap-attack-alert-as-fake/",
+      "published_date": "2026-09-19T14:09:21+00:00",
+      "summary": "The Nigerian Army has dismissed as fake and unverified a purported intelligence alert warning of planned Boko Haram and ISWAP attacks on schools,",
+      "reported_locations": [],
+      "severity_score": 7,
+      "severity": "LOW",
+      "matched_crime_terms": [
+        "attack"
+      ],
+      "police_priority": "LOW PRIORITY: verify and monitor the reported area.",
+      "collected_at": "2026-09-22T22:15:15.129928+00:00"
+    },
+    {
+      "title": "Travel agent docked over alleged N6m visa fraud in Abeokuta",
+      "url": "https://dailypost.ng/2026/09/22/travel-agent-docked-over-alleged-n6m-visa-fraud-in-abeokuta/",
+      "published_date": "2026-09-22T16:44:00+00:00",
+      "summary": "A 48-year-old travel agent, Akiah Edward, was on Tuesday arraigned before an Abeokuta Magistrates' Court in Isabo for allegedly obtaining N6 million under",
+      "reported_locations": [
+        "Ogun"
+      ],
+      "severity_score": 4,
+      "severity": "LOW",
+      "matched_crime_terms": [
+        "fraud"
+      ],
+      "police_priority": "LOW PRIORITY: verify and monitor Ogun.",
+      "collected_at": "2026-09-22T22:13:57.423889+00:00"
+    }
+  ]
+}
